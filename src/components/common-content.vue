@@ -1,8 +1,8 @@
 <template>
-    <div class="common-content">
-        <router-view />
-        <common-footer />
-    </div>
+	<div class="common-content">
+		<router-view />
+		<common-footer />
+	</div>
 </template>
 
 <script setup lang="ts">
